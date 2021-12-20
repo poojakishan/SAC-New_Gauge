@@ -44,4 +44,3 @@
 	}
 
 customElements.define("com-demo-box-sps", BoxSps);
-© 2021 GitHub, Inc.
